@@ -1,0 +1,9 @@
+{
+    "service"       : "gmail",
+    "service_port"  : 465,
+    "name"          : "tata-shrimp-pilot",
+    "user"          : "tata.shrimp.pilot@gmail.com",
+    "pass"          : "password_9876",
+    "subject"       : "Support From Shrimp Pilot",
+    "from"          : "Shrimp Pilot Support<tata.shrimp.pilot@gmail.com>"
+}

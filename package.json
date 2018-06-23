@@ -1,0 +1,27 @@
+{
+  "name": "email-server-demo",
+  "version": "1.0.0",
+  "description": "Email sending demo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunagarwal315/email-server-demo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node-mailer"
+  ],
+  "author": "Gunjan Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varunagarwal315/email-server-demo/issues"
+  },
+  "homepage": "https://github.com/varunagarwal315/email-server-demo#readme",
+  "dependencies": {
+    "nodemailer": "^4.6.7"
+  }
+}
