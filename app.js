@@ -1,6 +1,6 @@
 const option = {
     subject: 'Hello Admin',
-    to: 'patelgunjan777@gmail.com',
+    to: 'Your.Email@gmail.com',
     bcc: '',        // Not require
     text: 'Dear Admin,\n\n' +
 

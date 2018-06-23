@@ -2,8 +2,8 @@
     "service"       : "gmail",
     "service_port"  : 465,
     "name"          : "tata-shrimp-pilot",
-    "user"          : "tata.shrimp.pilot@gmail.com",
-    "pass"          : "password_9876",
+    "user"          : "tata.shrimp.pilot@gmail.com",  // working credentails
+    "pass"          : "password_9876",				  // working credentails
     "subject"       : "Support From Shrimp Pilot",
     "from"          : "Shrimp Pilot Support<tata.shrimp.pilot@gmail.com>"
 }
